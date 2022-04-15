@@ -1,2 +1,2 @@
-# verwalterbot
-Discord Bot 1.0
+# Verwalterbot
+Bot zum Verwalten eines Discord Servers
